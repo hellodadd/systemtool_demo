@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from [com.android.support:support-v4:20.0.0] /mnt/one/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/6489bf4fd6e59d7c787c52d70e56d700/AndroidManifest.xml:15:1-18:12
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:20.0.0] /mnt/one/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/6489bf4fd6e59d7c787c52d70e56d700/AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:20.0.0] /mnt/one/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/6489bf4fd6e59d7c787c52d70e56d700/AndroidManifest.xml:16:5-42
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:7:9-35
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:16:22-65
+application
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:20:5-41:19
+MERGED from [com.android.support:support-v4:20.0.0] /mnt/one/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/6489bf4fd6e59d7c787c52d70e56d700/AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:20.0.0] /mnt/one/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/6489bf4fd6e59d7c787c52d70e56d700/AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:24:9-40
+meta-data#systemtoolmodule
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:27:9-29:31
+	android:value
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:29:9-29
+	android:name
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:28:9-40
+meta-data#systemtooldescription
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:32:6-34:38
+	android:value
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:34:9-35
+	android:name
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:33:9-45
+meta-data#systemtoolminversion
+ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:37:6-39:30
+	android:value
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:39:9-27
+	android:name
+		ADDED from /mnt/one/XposedDemo1/app/src/main/AndroidManifest.xml:38:9-44

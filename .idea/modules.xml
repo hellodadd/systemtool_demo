@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///mnt/one/XposedDemo1/XposedDemo1.iml" filepath="/mnt/one/XposedDemo1/XposedDemo1.iml" />
+      <module fileurl="file:///mnt/one/XposedDemo1/app/app.iml" filepath="/mnt/one/XposedDemo1/app/app.iml" />
+    </modules>
+  </component>
+</project>
