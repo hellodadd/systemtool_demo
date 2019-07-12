@@ -25,17 +25,17 @@
         
         <!--添加标识-->
         <meta-data 
-        android:name="systemtoolmodule"
+        android:name="sysoperationmodule"
         android:value="true"/>
         
         <!--载入Hook模块之后显示的信息-->
    		<meta-data
-        android:name="systemtooldescription"
+        android:name="sysoperationdescription"
         android:value="fuck 电池模块!" />
    		
    		<!--规定jar包的版本信息-->
     	<meta-data
-        android:name="systemtoolminversion"
+        android:name="sysoperationminversion"
         android:value="89" />
         
     </application>
